@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 🌻
 
-Meu nome é Anally Fernanda
+Meu nome é **Anally Fernanda**
 
 -Estou estudando na Alura
 
